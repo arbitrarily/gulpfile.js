@@ -11,6 +11,8 @@ var gulp = require( "gulp" ),
 		"src/bower_components/modernizr/dist/modernizr-build.js",
 		/** Conditionizr */
 		"src/js/lib/conditionizr-4.3.0.min.js",
+		/** WebFont Loader */
+		"src/bower_components/bower-webfontloader/webfont.js",
 		/** FontFaceObserver */
 		"node_modules/fontfaceobserver/fontfaceobserver.js",
 		/** jQuery */
