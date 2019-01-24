@@ -18,13 +18,11 @@ var gulp = require( "gulp" ),
 		/** jQuery */
 		"src/bower_components/jquery/dist/jquery.js",
 		// Magnfic
-		"node_modules/magnific-popup/dist/jquery.magnific-popup.js",
+		// "node_modules/magnific-popup/dist/jquery.magnific-popup.js",
 		// Flexslider
-		"node_modules/flexslider/jquery.flexslider.js",
+		// "node_modules/flexslider/jquery.flexslider.js",
 		// Match Height
 		"node_modules/jquery-match-height/jquery.matchHeight.js",
-		// Magnific
-		"node_modules/magnific-popup/dist/jquery.magnific-popup.js",
 		/** Page scripts */
 		"src/js/scripts.js"
 	],
@@ -42,9 +40,9 @@ var gulp = require( "gulp" ),
 			/** Normalize */
 			"node_modules/normalize.css/normalize.css",
 			// Magnific
-			"node_modules/magnific-popup/dist/magnific-popup.css",
+			// "node_modules/magnific-popup/dist/magnific-popup.css",
 			// Flexslider
-			"node_modules/flexslider/flexslider.css",
+			// "node_modules/flexslider/flexslider.css",
 			/** Theme style */
 			"src/css/style.css"
 		]
